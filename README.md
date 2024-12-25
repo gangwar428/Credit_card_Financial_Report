@@ -1,45 +1,120 @@
-# Credit_card_Financial_Report
-Power BI Dashboard
-Project Objective
+# Credit Card Transaction & Customer Report
 
-To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze credit card operations effectively.
+These dashboards provide detailed insights into credit card transactions, revenue, customer behavior, and demographic analysis. Below is a summary of the key metrics and visualizations for each dashboard.
 
- The overall solution derived from the data presented in the data report on the Credit Card Financial Dashboard includes comprehensive insights and actionable points:
+---
 
-### Customer Demographics and Distribution:
-- **Actionable Insights**: 
-    - Tailor marketing strategies, products, and services based on age group preferences.
-    - Implement gender-specific promotions or loyalty programs to enhance customer engagement.
+## Credit Card Transaction Report
 
-### Financial Metrics and Revenue Analysis:
-- **Actionable Insights**:
-    - Customize offerings for different job categories to maximize revenue generation.
-    - Design targeted financial services and rewards based on education levels to cater to diverse customer needs.
+### Key Metrics:
+- **Revenue:** $55M (total income from transactions).
+- **Total Interest Earned:** $8M.
+- **Total Transaction Amount:** $44.5M.
+- **Total Transactions Count:** 655.7K.
 
-### Regional Trends and Top States:
-- **Actionable Insights**:
-    - Focus marketing efforts and campaigns on top states to capitalize on the significant customer bases.
-    - Monitor revenue trends over different months to identify seasonal patterns and optimize financial strategies accordingly.
+---
 
-### Customer-Specific Data:
-- **Actionable Insights**:
-    - Provide personalized services and offers to customers like Rishabh Mishra to enhance customer satisfaction and loyalty.
+### Revenue Analysis:
+- **By Card Category:**
+  - **Blue Card:** $46M (highest revenue).
+  - **Silver Card:** $6M.
+  - **Gold Card:** $2M.
+  - **Platinum Card:** $1M.
 
-### Top 5 States for Customers:
-- **Actionable Insights**:
-    - Develop location-specific promotions or programs to further engage customers from top states.
+- **By Expenditure Type:**
+  - **Bills:** $14M (highest expenditure type).
+  - **Entertainment:** $10M.
+  - **Fuel, Grocery, and Food:** ~$9M each.
+  - **Travel:** $6M.
 
-### Customer Job Categories and Revenues:
-- **Actionable Insights**:
-    - Offer exclusive benefits or services tailored to different job categories to boost customer loyalty and revenue.
+---
 
-### Education Levels and Customer Statistics:
-- **Actionable Insights**:
-    - Customize financial products and services based on education levels to meet varying customer preferences and needs effectively.
+### Demographic Insights:
+- **Revenue by Education:**
+  - **Graduate:** $22M (highest revenue group).
+  - **High School:** $11M.
+  - **Uneducated:** $8M.
 
-### Gender and Revenue Trends:
-- **Actionable Insights**:
-    - Analyze and adjust revenue strategies to align with gender-specific spending patterns.
-    - Optimize financial performance based on revenue fluctuations over different months.
+- **Revenue by Customer Job:**
+  - **Businessman:** $17M (highest earning group).
+  - **White-collar Workers:** $10M.
+  - **Self-employed & Govt Jobs:** ~$8M each.
 
- 
+---
+
+### Transaction Patterns:
+- **By Chip Use:**
+  - **Swipe Transactions:** $35M (majority of usage).
+  - **Chip Transactions:** $17M.
+  - **Online Transactions:** $3M.
+
+- **Quarterly Trends:**
+  - **Highest Revenue:** Q3 ($14.2M).
+  - **Steady Transactions Count:** ~165K per quarter.
+
+---
+
+## Credit Card Customer Report
+
+### Key Metrics:
+- **Revenue:** $55M.
+- **Total Interest Earned:** $8M.
+- **Total Income:** $576M.
+- **Customer Satisfaction Score (CSS):** 3.19.
+
+---
+
+### Revenue by Time and Region:
+- **Weekly Trends:**
+  - Revenue fluctuates with peaks in April 2023 and July 2023.
+  - Consistent dips in October 2023.
+
+- **Top 5 States by Revenue:**
+  - **TX & NY:** $6M each.
+  - **CA & FL:** ~$4M each.
+  - **NJ:** $3M.
+
+---
+
+### Customer Demographics:
+- **By Age Group:**
+  - **40-50 Years:** $14M (highest revenue group).
+  - **30-40 Years:** $11M.
+  - **20-30 Years & 50-60 Years:** ~$10M each.
+
+- **By Marital Status:**
+  - **Married Customers:** $15M.
+  - **Single Customers:** $12M.
+
+- **By Dependent Count:**
+  - Customers with 4 dependents contribute $4M.
+  - Those with 3 or fewer dependents: ~$7-9M.
+
+---
+
+### Revenue by Education and Income:
+- **By Education Level:**
+  - **Graduates:** $12M (highest).
+  - **High School & Unknown:** $6M each.
+
+- **By Income Group:**
+  - **High Income:** $22M.
+  - **Medium Income:** $8M.
+  - **Low Income:** $7M.
+
+---
+
+### Transaction Behavior:
+- **By Payment Mode:**
+  - **Swipe Transactions:** Most popular.
+  - **Online and Chip Transactions:** Less frequent.
+
+---
+
+## Dashboard Previews:
+
+### Credit Card Transaction Report
+![Credit Card Transaction Report](./Screenshot%202024-12-25%20144604.png)
+
+### Credit Card Customer Report
+![Credit Card Customer Report](./Screenshot%202024-12-25%20144627.png)
