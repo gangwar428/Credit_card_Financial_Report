@@ -114,7 +114,7 @@ These dashboards provide detailed insights into credit card transactions, revenu
 ## Dashboard Previews:
 
 ### Credit Card Transaction Report
-![Credit Card Transaction Report](./Screenshot%202024-12-25%20144604.png)
+![Credit Card Transaction Report ](https://github.com/user-attachments/assets/dfe76a89-381a-468e-8ff5-0f0c2441a7e6)
 
 ### Credit Card Customer Report
-![Credit Card Customer Report](./Screenshot%202024-12-25%20144627.png)
+![Credit Card Customer Report ](https://github.com/user-attachments/assets/15be3b0c-70c8-4178-a629-3fd6018267e0)
